@@ -1,0 +1,8 @@
+[project]
+name = "stock-report-agents"
+version = "0.1.0"
+description = "Multi-agent stock report generation package"
+dependencies = [
+    "pyyaml",
+    "autogen"
+]

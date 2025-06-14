@@ -1,0 +1,5 @@
+llm_config:
+  model: gpt-4-turbo
+  temperature: 0.7
+  max_tokens: 2048
+task: "Write a blogpost about the stock price performance of Nvidia in the past month. Today's date is 2025-06-01"
